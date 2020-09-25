@@ -1,5 +1,5 @@
 # PharmaEasy_FrontEnd
-## USING........
+## USING:
 #### 1. HTML
 #### 2. CSS
 #### 3. BOOTSTRAP 4
